@@ -3,7 +3,7 @@ import org.firstProject.Person;
 /**
  * Created by dipakk on 3/27/2017.
  */
-public class main {
+public class Demo {
     public static void main(String args[]){
 
         Person p1 = new Person();
